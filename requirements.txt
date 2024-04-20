@@ -1,6 +1,6 @@
 ### dependency
 streamlit
 numpy
-
+scikit-gitlearn
 ### local packages -
 -e . 
