@@ -21,6 +21,6 @@ setup(
     author_email="rockersinfo@gmail.com",
     packages=[SRC_REPO],
     license="MIT",
-    python_requires=">=3.7",
+    python_requires=">=3.12",
     install_requires=LIST_OF_REQUIREMENTS
 )
